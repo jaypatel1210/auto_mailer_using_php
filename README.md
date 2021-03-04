@@ -1,5 +1,5 @@
 # Auto Mailer Using PHP
-Implemented Auto Mailer which can send bulk mails in just 3 simple stpes.  
+Implemented Auto Mailer which can send bulk mails in just 3 simple steps.  
 
 1>> Select the template and edit it as per requirements.  
 2>> Select the mailing sheet. User can upload csv/excel file containing email & name to send bulk mail.  
